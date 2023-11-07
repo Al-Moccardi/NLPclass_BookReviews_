@@ -5,6 +5,7 @@
 
 **Introduction**
 The project focuses on both accuracy and explainability, and uses a wide range of algorithms and techniques that harmonize traditional machine learning and state-of-the-art deep learning paradigms.
+The data and the task refer to the Kaggle Challenge regerding the classification of the reviews : source [https://www.kaggle.com/competitions/goodreads-books-reviews-290312]
 
 **EDA & Data Mining**
 
